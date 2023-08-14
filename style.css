@@ -1,0 +1,33 @@
+.card{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png");
+    background-size: cover;
+    color:white;
+    height: 100vh;
+}
+.heading1{
+    font-size: 50px;
+    text-align: center;
+
+}
+.para1{
+    text-align:center;
+}
+.heading2{
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+.para2{
+    font-size: 15px;
+}
+.button{
+    background-color: orange;
+    color:white;
+    height:30px;
+    width: 75px;
+    border-width: 1px;
+}
+.id{
+    font-size: 11px;
+    text-decoration: underline;
+}
+
